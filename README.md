@@ -41,7 +41,7 @@ To runs this application you must have Mongo DB,  Node.js and React installed. O
 ## Deployment
 
 - Git hub link  https://github.com/ghimirear/the-jamm
-- Heroku link 
+- Heroku link https://pacific-river-65796.herokuapp.com/
 
 
 ## Screenshots
